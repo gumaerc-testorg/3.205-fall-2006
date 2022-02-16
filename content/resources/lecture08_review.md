@@ -4,8 +4,13 @@ description: 'This file is a resource which contains information on diffusional 
   the "moving boundary" problem, growth phenomena: interface control vs. diffusion
   control, diffusion-controlled growth, including melting of a pure material, interdiffusion
   with a moving boundary, and alloy solidification.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/805db94024a011d5f85bfee4336e4344_lecture08_review.pdf
+file: /media/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/805db94024a011d5f85bfee4336e4344_lecture08_review.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture08_review.pdf
 uid: 805db940-24a0-11d5-f85b-fee4336e4344

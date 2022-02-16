@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a problem set from the kinetics segment of the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/16920ff184b4937e294f9fb177736c4a_hw_9.pdf
+file: /media/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/16920ff184b4937e294f9fb177736c4a_hw_9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw_9.pdf
 uid: 16920ff1-84b4-937e-294f-9fb177736c4a

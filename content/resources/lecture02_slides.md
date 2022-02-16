@@ -4,8 +4,13 @@ description: 'This is a resource which contains information on mass diffusion in
   continuum, diffusion coefficients, mass diffusion: Fick''s laws, self-diffusion,
   interdiffusion, the Kirkendall effect, capillarity-driven diffusion, and stress-driven
   diffusion.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/dd4e2a11a931f6728ca6836f0a6a4f32_lecture02_slides.pdf
+file: /media/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/dd4e2a11a931f6728ca6836f0a6a4f32_lecture02_slides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture02_slides.pdf
 uid: dd4e2a11-a931-f672-8ca6-836f0a6a4f32
