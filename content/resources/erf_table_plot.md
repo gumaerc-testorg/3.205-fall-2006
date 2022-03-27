@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: aa089f4c-4029-59d3-ea3d-265e8e23053d
 resourcetype: Document
 title: erf_table_plot.pdf
 uid: ad09e67d-d206-3f40-6812-83ac80631263
