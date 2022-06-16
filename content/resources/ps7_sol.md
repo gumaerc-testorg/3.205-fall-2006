@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to a problem set from the kinetics segment
   of the course.
-file: /media/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/78ea246410c69da9526f5905c95eaca9_ps7_sol.pdf
+file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/78ea246410c69da9526f5905c95eaca9_ps7_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: ps7_sol.pdf
 uid: 78ea2464-10c6-9da9-526f-5905c95eaca9
 ---
+This resource contains solutions to a problem set from the kinetics segment of the course.
+

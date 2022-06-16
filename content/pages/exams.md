@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides sample exams and solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -27,9 +28,9 @@ _**2003**_
 {{< tdopen >}}
 
 
-Exam ([PDF]({{< baseurl >}}/resources/exam2003))
+Exam ({{% resource_link f519c9ef-0069-16a7-0977-4ecd3e7ae5af "PDF" %}})
 
-Solutions ([PDF]({{< baseurl >}}/resources/exam2003_sol))
+Solutions ({{% resource_link a7217c3a-72e0-cc04-612a-a2967e458ce6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -43,7 +44,7 @@ Solutions ([PDF]({{< baseurl >}}/resources/exam2003_sol))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Exam ([PDF]({{< baseurl >}}/resources/exam2005))
+Exam ({{% resource_link f6e17180-2ccb-c5d3-0476-3c9e59c04bb5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
