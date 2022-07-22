@@ -7,6 +7,7 @@ file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/82c44968
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture11_slides.pdf
 uid: 82c44968-71c1-7752-7c74-a0c4dc6f34ba
 ---
 This file is a resource which contains information on particle coarsening: capillarity as a driving Force, coarsening in Pb?Sn solid/liquid alloys, Gibbs-Thomson effect, and kinetics in the diffusion-controlled regime.
-

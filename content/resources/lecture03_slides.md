@@ -6,6 +6,7 @@ file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/90b4b737
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture03_slides.pdf
 uid: 90b4b737-6505-ab14-ba82-d95309083961
 ---
 This is a resource which contains information on solutions to the diffusion/heat equation and methods of solving the diffusion equation (Fick's second law).
-

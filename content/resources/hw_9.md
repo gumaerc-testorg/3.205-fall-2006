@@ -5,6 +5,7 @@ file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/16920ff1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw_9.pdf
 uid: 16920ff1-84b4-937e-294f-9fb177736c4a
 ---
 This resource is a problem set from the kinetics segment of the course.
-

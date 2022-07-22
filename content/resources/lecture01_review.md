@@ -7,6 +7,7 @@ file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/51c50576
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture01_review.pdf
 uid: 51c50576-b319-acaf-26bc-ce70746fe3f8
 ---
 This is a resource which contains information on fields and gradients, fluxes, continuity equation, entropy production, and conjugate driving forces and fluxes.
-

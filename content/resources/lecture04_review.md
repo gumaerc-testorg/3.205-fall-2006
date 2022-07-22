@@ -8,6 +8,7 @@ file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/e6069def
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lecture04_review.pdf
 uid: e6069def-527e-6948-6564-e43fcfa00a73
 ---
 This is a resource which contains information on atomistic mechanisms of diffusion, interphase layer growth in interdiffusion, atomistic mechanisms of diffusion: vacancy, interstitial, and theory for diffusion coefficients and their temperature dependence.
-

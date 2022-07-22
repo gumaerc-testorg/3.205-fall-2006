@@ -7,6 +7,7 @@ file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/a4c33317
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture12_slides.pdf
 uid: a4c33317-ff50-4f44-57cd-5d803391402c
 ---
 This file is a resource which contains information on sintering, grain growth, grain-growth kinetics in two and three dimensions, and kinetics of nucleation and growth transformations: time-temperature-transformation diagrams.
-
