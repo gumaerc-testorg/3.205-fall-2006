@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains lecture slides and lecture summaries.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 7b31c34f-2920-c017-597c-dd302a82811a
 ---
@@ -51,10 +55,10 @@ Conjugate Driving Forces and Fluxes
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture01_slides))
+({{% resource_link e0860b50-561c-ba6b-1b2a-5c5bc72b1018 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture01_review))
+({{% resource_link 51c50576-b319-acaf-26bc-ce70746fe3f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,10 +94,10 @@ Stress-Driven Diffusion
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture02_slides))
+({{% resource_link dd4e2a11-a931-f672-8ca6-836f0a6a4f32 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture02_review))
+({{% resource_link 1baa318e-2b9b-d099-6e61-c1e5017c1dbf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,10 +115,10 @@ Mass Diffusion: Methods of Solving the Diffusion Equation (Fick's Second Law)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture03_slides))
+({{% resource_link 90b4b737-6505-ab14-ba82-d95309083961 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture03_review))
+({{% resource_link fe7c2e59-08b9-65e1-7ff6-d90b34e2f879 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,10 +140,10 @@ Theory for Diffusion Coefficients and Their Temperature Dependence
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture04_slides))
+({{% resource_link 48fa40fa-1298-230d-4459-91e2325d132d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture04_review))
+({{% resource_link e6069def-527e-6948-6564-e43fcfa00a73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,10 +167,10 @@ Also includes optional information about Diffusion in Non-Stoichiometric Oxides
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture05_slides))
+({{% resource_link d6fd4e0d-7f52-dd71-563f-89514645b830 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture05_review))
+({{% resource_link 8afa631d-9005-fef6-0e83-e45f2a99c80a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,10 +188,10 @@ Short-Circuit Diffusion in Crystals: Diffusion Spectrum in Defective Crystals, D
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lecture06_slides))
+({{% resource_link e54954cc-4529-ee71-502b-8950be7ddde0 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture06_review))
+({{% resource_link cde0f669-066e-b22d-6ed8-3adee4846bb7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,14 +219,14 @@ Nucleation Theory, including Interplay between Surface and Volumetric Energy Ter
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lecture07_slides))
+({{% resource_link a1b943bb-b771-79f9-c787-a0f3cdcac84f "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-([PDF 1]({{< baseurl >}}/resources/lecture7a_review))
+({{% resource_link 4a7f6c13-c67f-c7a8-0f0c-8e26382b2a10 "PDF 1" %}})
 
-([PDF 2]({{< baseurl >}}/resources/lecture7b_review))
+({{% resource_link a9ac9471-34bb-44ae-2cbf-bfc5644da857 "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -246,10 +250,10 @@ Diffusion-Controlled Growth, including Melting of a Pure Material, Interdiffusio
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture08_slides))
+({{% resource_link def4b66e-8a09-9ae2-0056-d37f6520fe0b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture08_review))
+({{% resource_link 805db940-24a0-11d5-f85b-fee4336e4344 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,10 +275,10 @@ Microsegregation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture09_slides))
+({{% resource_link 84ea4e0e-2ab2-a8bd-707e-fee12f22220e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture09_review))
+({{% resource_link 6a8f0487-ae34-7e01-4a0e-152ec055d55a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,10 +302,10 @@ Spinodal Microstructures
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10_slides))
+({{% resource_link 174566f2-bc29-33c3-946c-8b7854c3e3b8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10_review))
+({{% resource_link 4aa3ce8d-667e-1dbc-4811-98aee896dfd9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -329,10 +333,10 @@ Kinetics in the Diffusion-Controlled Regime
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture11_slides))
+({{% resource_link 82c44968-71c1-7752-7c74-a0c4dc6f34ba "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture11_review))
+({{% resource_link e5c38b7c-ed55-6a7d-e2a2-198912c7b3d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -354,10 +358,10 @@ Kinetics of Nucleation and Growth Transformations: Time-Temperature-Transformati
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture12_slides))
+({{% resource_link a4c33317-ff50-4f44-57cd-5d803391402c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture12_review))
+({{% resource_link a4293f54-f2c8-94be-9ef1-c7c226d0b271 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
