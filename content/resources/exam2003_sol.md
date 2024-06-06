@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides solutions for the sample Kinetics Examination
   from 2003.
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/a7217c3a72e0cc04612aa2967e458ce6_exam2003_sol.pdf
+file_size: 194325
 file_type: application/pdf
 learning_resource_types:
 - Exams

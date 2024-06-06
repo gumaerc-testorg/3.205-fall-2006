@@ -5,6 +5,7 @@ description: 'This is a resource which contains information on mass diffusion in
   interdiffusion, the Kirkendall effect, capillarity-driven diffusion, and stress-driven
   diffusion.'
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/dd4e2a11a931f6728ca6836f0a6a4f32_lecture02_slides.pdf
+file_size: 252435
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

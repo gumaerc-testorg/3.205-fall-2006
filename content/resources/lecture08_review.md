@@ -5,6 +5,7 @@ description: 'This file is a resource which contains information on diffusional 
   control, diffusion-controlled growth, including melting of a pure material, interdiffusion
   with a moving boundary, and alloy solidification.'
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/805db94024a011d5f85bfee4336e4344_lecture08_review.pdf
+file_size: 39658
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

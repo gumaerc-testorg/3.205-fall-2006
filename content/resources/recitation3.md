@@ -3,6 +3,7 @@ content_type: resource
 description: This file is a resource which contains information about cation vacancy,
   anion vacancy and steady state concentration.
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/3844669f733f3ea43cf2bec77effe3e4_recitation3.pdf
+file_size: 290879
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
