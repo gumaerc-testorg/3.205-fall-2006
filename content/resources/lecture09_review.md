@@ -4,6 +4,7 @@ description: 'This file is a resource which contains information on solidificati
   thermal and solute gradients and interfacial shape stability, cells and dendrites,
   casting microstructures, and microsegregation.'
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/6a8f0487ae347e014a0e152ec055d55a_lecture09_review.pdf
+file_size: 30743
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

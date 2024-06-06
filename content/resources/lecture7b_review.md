@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture references and key concepts of heterogeneous
   nucleation theory.
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/a9ac947134bb44ae2cbfbfc5644da857_lecture7b_review.pdf
+file_size: 40599
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
