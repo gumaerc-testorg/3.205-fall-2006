@@ -4,6 +4,7 @@ description: 'This file is a resource which contains information on sintering, g
   growth, grain-growth kinetics in two and three dimensions, and kinetics of nucleation
   and growth transformations: time-temperature-transformation diagrams.'
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/a4293f54f2c894be9ef1c7c226d0b271_lecture12_review.pdf
+file_size: 33221
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

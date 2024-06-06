@@ -5,6 +5,7 @@ description: 'This file is a resource which contains information on the role of 
   spectrum in defective crystals, dislocation structure and short circuits, and grain-boundary
   structure and diffusion.'
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/e54954cc4529ee71502b8950be7ddde0_lecture06_slides.pdf
+file_size: 1244505
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

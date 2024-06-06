@@ -5,6 +5,7 @@ description: 'This is a resource which contains information on atomistic mechani
   diffusion: vacancy, interstitial, and theory for diffusion coefficients and their
   temperature dependence.'
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/e6069def527e69486564e43fcfa00a73_lecture04_review.pdf
+file_size: 48296
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

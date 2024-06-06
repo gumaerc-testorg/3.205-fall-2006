@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a problem set from the kinetics segment of the course.
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/fe88b1ff525932d255dd6d23b649e1ef_hw_7.pdf
+file_size: 39514
 file_type: application/pdf
 learning_resource_types:
 - Assignments

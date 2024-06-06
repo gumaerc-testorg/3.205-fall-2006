@@ -3,6 +3,7 @@ content_type: resource
 description: This file is a resource which contains a table of values of the error
   function.
 file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/ad09e67dd2063f40681283ac80631263_erf_table_plot.pdf
+file_size: 212859
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
