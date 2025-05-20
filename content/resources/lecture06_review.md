@@ -4,7 +4,7 @@ description: 'This file is a resource which contains information on the role of 
   structure in diffusion: short-circuits, short-circuit diffusion in crystals: diffusion
   spectrum in defective crystals, dislocation structure and short circuits, grain-boundary
   structure and diffusion.'
-file: /ol-ocw-studio-app/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/cde0f669066eb22d6ed83adee4846bb7_lecture06_review.pdf
+file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/cde0f669066eb22d6ed83adee4846bb7_lecture06_review.pdf
 file_size: 39676
 file_type: application/pdf
 learning_resource_types:
