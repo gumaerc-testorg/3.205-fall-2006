@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to a problem set from the kinetics segment
   of the course.
-file: /ol-ocw-studio-app/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/0369d142505a9facda38cf251fa6a81f_ps8_sol.pdf
+file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/0369d142505a9facda38cf251fa6a81f_ps8_sol.pdf
 file_size: 133188
 file_type: application/pdf
 learning_resource_types:

@@ -4,7 +4,7 @@ description: 'This is a resource which contains information on atomistic mechani
   of diffusion, interphase layer growth in interdiffusion, and atomistic mechanisms
   of diffusion: vacancy, interstitial, and theory for diffusion coefficients and their
   temperature dependence.'
-file: /ol-ocw-studio-app/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/48fa40fa1298230d445991e2325d132d_lecture04_slides.pdf
+file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/48fa40fa1298230d445991e2325d132d_lecture04_slides.pdf
 file_size: 474436
 file_type: application/pdf
 learning_resource_types:
