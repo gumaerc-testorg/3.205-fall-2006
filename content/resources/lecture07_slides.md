@@ -4,7 +4,7 @@ description: This file is a resource which contains information on homogeneous a
   heterogeneous nucleation, introduction to phase transformations lectures, continuous
   vs. discontinuous transformations, nucleation Theory, including interplay between
   surface and volumetric energy terms, and coherency strain energy.
-file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/a1b943bbb77179f9c787a0f3cdcac84f_lecture07_slides.pdf
+file: /ol-ocw-studio-app/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/a1b943bbb77179f9c787a0f3cdcac84f_lecture07_slides.pdf
 file_size: 1278622
 file_type: application/pdf
 learning_resource_types:

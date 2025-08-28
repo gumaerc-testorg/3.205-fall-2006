@@ -4,7 +4,7 @@ description: 'This file is a resource which contains information on spinodal dec
   phase diagrams with a spinodal region, free energy of a compositionally inhomogeneous
   solution, interdiffusion within the spinodal region, kinetics of spinodal decomposition,
   and spinodal microstructures.'
-file: /courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/4aa3ce8d667e1dbc481198aee896dfd9_lecture10_review.pdf
+file: /ol-ocw-studio-app/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/4aa3ce8d667e1dbc481198aee896dfd9_lecture10_review.pdf
 file_size: 51309
 file_type: application/pdf
 learning_resource_types:
